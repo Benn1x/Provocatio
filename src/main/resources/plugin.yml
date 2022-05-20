@@ -1,0 +1,38 @@
+name: provocatio
+version: 0.1.5
+main: main.Structur.InternalMainClass
+api-version: 1.18
+authors: [Benn1x]
+description: Jo, dieses Plugin ist so cool
+libraries:
+  - "net.axay:kspigot:1.18.0"
+  - "org.jetbrains.kotlin:kotlin-stdlib:1.6.10"
+  - "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0"
+  - "org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.6.0"
+commands:
+  challenge:
+    permission: op
+    usage: /<command>
+  timer:
+    permission: op
+    usage: /<command>
+  gui:
+    description: A Gui
+    usage: /<command>
+  party:
+    description: for Party Creaton
+    usage: /<command>
+  debug:
+    permission: op
+    usage: /<command>
+  position:
+    usage: /<command>
+  Teleport:
+    permission: op
+    usage: /<command>
+  WorldGen:
+    permission: op
+    usage: /<command>
+  delworld:
+    permission: op
+    usage: /<command>

@@ -1,0 +1,2 @@
+Command: /usr/lib/jvm/java-17-openjdk-amd64/bin/java -Dpaperclip.patchonly=true -classpath /mnt/118b10ae-c20e-4892-8efc-6be6ca16dfba/ChallengeManager/.gradle/caches/paperweight/setupCache/extractDevBundle.dir/data/paperclip-mojang+yarn.jar io.papermc.paperclip.Main
+Applying patches
